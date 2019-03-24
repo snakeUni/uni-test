@@ -4,7 +4,12 @@ In this lesson, we’ll get the most fundamental understanding of what an automa
 
 Tests can get more complicated when you’re dealing with code that depends on some state to be set up first (like a component needs to be rendered to the document before you can fire browser events, or there needs to be users in the database). However, it is relatively easy to test pure functions (functions which will always return the same output for a given input and not change the state of the world around them).
 
+[观看视频](https://pan.baidu.com/s/1kaZ0hOLavVcd3CZQSAVy-w)
+
 [Code](https://codesandbox.io/s/0y3z2pxw1p)
+
+<video src="blob:https://pan.baidu.com/2329e37d-336f-4ed6-8f06-8589db3df1cb">
+</video>
 
 ## Transcript
 
