@@ -8,3 +8,4 @@
 
 + [Throw an Error with a Simple Test in JavaScript](./Fundumentals/ThrowAnError.md)
 + [Abstract Test Assertions into a JavaScript Assertion Library](./Fundumentals/Abstract.md)
++ [Encapsulate and Isolate Tests by building a JavaScript Testing Framework](./Fundumentals/Encapsulate.md)
