@@ -13,3 +13,5 @@
 + [Abstract Test Assertions into a JavaScript Assertion Library](./Fundumentals/Abstract.md)
 + [Encapsulate and Isolate Tests by building a JavaScript Testing Framework](./Fundumentals/Encapsulate.md)
 + [Support Async Tests with JavaScripts Promises through async await](./Fundumentals/SupportAsync.md)
++ [Provide Testing Helper Functions as Globals in JavaScript](./Fundumentals/Provide.md)
++ [Verify Custom JavaScript Tests with Jest](./Fundumentals/VerifyCustom.md)
