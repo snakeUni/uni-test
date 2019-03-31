@@ -15,3 +15,7 @@
 + [Support Async Tests with JavaScripts Promises through async await](./Fundumentals/SupportAsync.md)
 + [Provide Testing Helper Functions as Globals in JavaScript](./Fundumentals/Provide.md)
 + [Verify Custom JavaScript Tests with Jest](./Fundumentals/VerifyCustom.md)
+
+### Static Analysis Testing JavaScript Applications
+
++ [Lint JavaScript by configuring and running ESLint](./TwoStaticAnalysis/oneEslint.md)
