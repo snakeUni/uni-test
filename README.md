@@ -19,3 +19,4 @@
 ### Static Analysis Testing JavaScript Applications
 
 + [Lint JavaScript by configuring and running ESLint](./TwoStaticAnalysis/oneEslint.md)
++ [Format Code by installing and running Prettier](./TwoStaticAnalysis/twoPrettier.md)
