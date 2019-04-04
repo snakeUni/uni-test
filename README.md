@@ -20,3 +20,6 @@
 
 + [Lint JavaScript by configuring and running ESLint](./TwoStaticAnalysis/oneEslint.md)
 + [Format Code by installing and running Prettier](./TwoStaticAnalysis/twoPrettier.md)
++ [Configure Prettier](./TwoStaticAnalysis/threeConfigPrettier.md)
++ [Disable Unnecessary ESLint Stylistic Rules with eslint-config-prettier](./TwoStaticAnalysis/fourEslintConfigPrettier.md)
++ [Validate all files are formatted when linting](./TwoStaticAnalysis/fiveFormattedLinting.md)
